@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Personel";
+}
+<div ng-controller="PersonelCtrl">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Adi</th>
+                <th>Soyadi</th>
+                <th>Dogum Tarihi</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="personel in PersonelList">
+                <td>{{personel.Adi}}</td>
+                <td>{{personel.Soyadi}}</td>
+                <td>{{personel.DTarih | date:'dd.MM.yyyy'}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+@section masterAngularCtrl
+{
+    <script src="/Scripts/AngularScripts/PersonelCtrl.js"></script>
+}
+

@@ -1,0 +1,17 @@
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\DAL.dll.config
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\DAL.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\DAL.pdb
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\EntityFramework.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\Model.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\Model.pdb
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\Model.dll.config
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\EntityFramework.xml
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\obj\Debug\DAL.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\obj\Debug\DAL.pdb
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\obj\Debug\DAL.Migrations.Version1.resources
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

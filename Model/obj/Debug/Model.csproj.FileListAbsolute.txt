@@ -1,0 +1,12 @@
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\bin\Debug\Model.dll.config
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\bin\Debug\Model.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\bin\Debug\Model.pdb
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\bin\Debug\EntityFramework.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\bin\Debug\EntityFramework.xml
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\obj\Debug\Model.csproj.CopyComplete
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\obj\Debug\Model.dll
+E:\Egitmen yedek\CEMDOS\OrnekProje\OrnekProje\Model\obj\Debug\Model.pdb
