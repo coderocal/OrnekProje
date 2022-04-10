@@ -8,6 +8,7 @@
                 }
                 //alert("oldu");
                 $scope.PersonelList = response.data.ResultTable
+                //alert("MErhaba dünya");
             });
     }
 
